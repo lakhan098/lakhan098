@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lakhan Sharma
-- 👀 I’m interested in software development and web development
+- 👀 I’m interested in Software Development and Machine Learning.
 - 🌱 I’m currently learning both
-- 💞️ I’m looking to collaborate on on the above stuffs
+- 💞️ I’m looking to collaborate on the above stuffs
 .
 
 <!---
